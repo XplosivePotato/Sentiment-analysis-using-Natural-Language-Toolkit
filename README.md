@@ -15,7 +15,7 @@ A simple sentiment analysis tool using Python and NLTK that classifies user-prov
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Sentiment-analysis-using-Natural-Language-Toolkit
+   git clone XplosivePotato/Sentiment-analysis-using-Natural-Language-Toolkit
    cd Sentiment-Analyzer
 2. **Install Dependencies**:
     ```bash
